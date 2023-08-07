@@ -4,6 +4,7 @@
     width: 100%;
     position: relative;
     background: url("../images/main-img33.avif");
+    background-size: cover;
 }
 .main-x{
     background-color: black;
